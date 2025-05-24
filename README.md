@@ -40,28 +40,40 @@ En conclusion, este sistema integra hardware y software de forma eficaz para el 
 
 Se realiza la conexion entre la raspberry pi y los sensores ultrasonido. 
 
-![conexion_raspberry_ultrasonidos](/conexion_raspberry_ultrasonidos.jpeg)
+![conexion_raspberry_ultrasonidos](/imagenes/conexion_raspberry_ultrasonidos.jpeg)
 
 ahora realizamos la conexion entre la esp32 y los sensores ultrasonido, y la raspberry pi la usamos como broker.
 
-![conexion_esp32_ultrasonidos](/circuito_completo.jpeg)
+![conexion_esp32_ultrasonidos](/imagenes/circuito_completo.jpeg)
 
 Luego se realiza la lectura por medio de python.
 
-![lectura_python.png](/lectura_python.png)
+![lectura_python.png](/imagenes/lectura_python.png)
 
 por medio de Thonny visualizamos los datos recibido en la esp32
 
-![lectura_thonny.png](/lectura_thonny.png)
+![lectura_thonny.png](/imagenes/lectura_thonny%20(2).png)
 
 observamos los valores en node-RED.
 
-![lectura_node_red](/lectura_node_red.png)
+![lectura_node_red](/imagenes/lectura_node_red.png)
 
  se acomoda la interface en node red y se le adicionan unos leds.
 
-![lectura_node](/lectura_node.png)
+![lectura_node](/imagenes/lectura_node.png)
+
+## Lecturas de los sensores C, M, Y, K y W.
+
+![lectura_node](/imagenes/C.png)
+
+![lectura_node](/imagenes/M.png)
+
+![lectura_node](/imagenes/Y.png)
+
+![lectura_node](/imagenes/K.png)
+
+![lectura_node](/imagenes/W.png)
 
 ## diagrama de flujo 
 
-![Diagrama de flujo](/diagrama%20de%20flujo.png)
+![Diagrama de flujo](/imagenes/diagrama%20de%20flujo.png)
