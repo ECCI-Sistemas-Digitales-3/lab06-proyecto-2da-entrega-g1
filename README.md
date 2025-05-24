@@ -77,3 +77,11 @@ observamos los valores en node-RED.
 ## diagrama de flujo 
 
 ![Diagrama de flujo](/imagenes/diagrama%20de%20flujo.png)
+
+## Referencias bibliograficas
+
+1. https://www.alldatasheet.com/datasheet-pdf/download/1132204/ETC2/HCSR04.html
+
+2. https://www.alldatasheet.es/datasheet-pdf/download/1148023/ESPRESSIF/ESP32.html
+
+3. https://www.mouser.com/c/ds/?form%20factor=Raspberry%20Pi%205&srsltid=AfmBOoofasOCTcJWGXRzpAbVTVt30Hv72afcH-3Ie7M0-t62UpZjrBrW
